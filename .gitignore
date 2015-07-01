@@ -1,0 +1,17 @@
+#gitignore list
+*.bak
+MDK/
+OUTPUT/
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.SearchResults
+*.WK3
+*.zip
+*.rar
