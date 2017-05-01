@@ -2,6 +2,7 @@
 *.bak
 MDK/
 OUTPUT/
+List/
 *.IAB
 *.IAD
 *.IMB
